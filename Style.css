@@ -1,0 +1,30 @@
+.Para{
+    font-family: 'Segoe UI Light';
+    color: white;
+    font-size:x-large;
+    text-align: justify;
+}
+.Cover{
+    width: 80%;
+    border-radius: 20px;
+}
+.Song {
+    border-radius: 10px;
+    padding: 1px;
+    width: 150px;
+}
+.Heading{
+    font-family: 'Segoe UI Light';
+    color: white;
+}
+.Logo{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
+.Section{
+    width: 90%;
+    text-justify: newspaper;
+    text-align:justify;
+    text-justify: auto;
+}
